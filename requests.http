@@ -1,0 +1,5 @@
+###weather_api.api_key
+
+###Weather Index
+
+GET http://localhost:3000/forecasts?keyword=178087
